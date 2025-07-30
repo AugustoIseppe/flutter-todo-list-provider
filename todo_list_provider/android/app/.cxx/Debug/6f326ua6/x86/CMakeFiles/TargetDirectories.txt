@@ -1,0 +1,2 @@
+C:/Users/Augusto/Desktop/Portfolio-Flutter/todo_list_provider/android/app/.cxx/Debug/6f326ua6/x86/CMakeFiles/edit_cache.dir
+C:/Users/Augusto/Desktop/Portfolio-Flutter/todo_list_provider/android/app/.cxx/Debug/6f326ua6/x86/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,1 @@
+C:\Users\Augusto\Desktop\Portfolio-Flutter\todo_list_provider\build\app\intermediates\cxx\Debug\6f326ua6\obj\arm64-v8a

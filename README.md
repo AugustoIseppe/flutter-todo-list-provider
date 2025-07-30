@@ -1,6 +1,6 @@
 # ✅ Todo List Provider
 
-Um aplicativo Flutter moderno de lista de tarefas, utilizando `Provider` para gerenciamento de estado e persistência local com `SQLite`. O projeto também integra autenticação com Firebase e suporte a login via Google.
+Aplicativo Flutter de lista de tarefas, utilizando `Provider` para gerenciamento de estado e persistência local com `SQLite`. O projeto também integra autenticação com Firebase e suporte a login via Google.
 
 ---
 
@@ -103,16 +103,3 @@ Este projeto utiliza o pacote [`provider`](https://pub.dev/packages/provider) pa
 
 ---
 
-## ✍️ Licença
-
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
----
-
-## 🙋‍♂️ Autor
-
-Desenvolvido por **Augusto Iseppe Balan**.  
-📍 Pirassununga - SP, Brasil  
-💼 Desenvolvedor de Software | Entusiasta de Flutter, Firebase e UI Clean  
-🔗 [LinkedIn](https://www.linkedin.com/in/seu-perfil)  
-🔗 [GitHub](https://github.com/seu-usuario)

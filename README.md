@@ -1,3 +1,4 @@
+<img width="1920" height="1080" alt="Purple Pink Gradient Mobile Application Presentation" src="https://github.com/user-attachments/assets/a7ded086-8985-4dbd-866c-a099a3e8f27e" />
 # ✅ Todo List Provider
 
 Aplicativo Flutter de lista de tarefas, utilizando `Provider` para gerenciamento de estado e persistência local com `SQLite`. O projeto também integra autenticação com Firebase e suporte a login via Google.

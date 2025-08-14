@@ -1,6 +1,17 @@
 <img width="1920" height="1080" alt="Purple Pink Gradient Mobile Application Presentation" src="https://github.com/user-attachments/assets/a7ded086-8985-4dbd-866c-a099a3e8f27e" />
 # ✅ Todo List Provider
 
+![Flutter](https://img.shields.io/badge/Flutter-3.5.4-blue?logo=flutter&logoColor=white)
+![Provider](https://img.shields.io/badge/Provider-State%20Management-purple)
+![SQLite](https://img.shields.io/badge/SQLite-3.0-blue?logo=sqlite&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase%20Auth-Google%20Sign--In-orange?logo=firebase&logoColor=white)
+![Cloud Firestore](https://img.shields.io/badge/Cloud%20Firestore-NoSQL-orange?logo=firebase&logoColor=white)
+![Google Fonts](https://img.shields.io/badge/Google%20Fonts-Custom%20Typography-blue?logo=googlefonts&logoColor=white)
+![Date Picker Timeline](https://img.shields.io/badge/Date%20Picker%20Timeline-UI%20Component-lightblue)
+![Validatorless](https://img.shields.io/badge/Validatorless-Form%20Validation-green)
+![Overlay Loader](https://img.shields.io/badge/Overlay%20Loader-Custom%20UX-yellow)
+![License](https://img.shields.io/badge/license-MIT-lightgrey)
+
 Aplicativo Flutter de lista de tarefas, utilizando `Provider` para gerenciamento de estado e persistência local com `SQLite`. O projeto também integra autenticação com Firebase e suporte a login via Google.
 
 ---
